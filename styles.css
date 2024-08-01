@@ -71,6 +71,7 @@ div img{
     display:grid;
     grid-template-columns: 41% 41%;    
     justify-content:space-evenly;
+    align-items: center;
    grid-template-rows: 18% 18% 18% 18% 20%;
    row-gap: 2%; 
 }
